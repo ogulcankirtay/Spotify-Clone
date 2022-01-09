@@ -1,0 +1,7 @@
+projeyi çalıştırmak için başta veriler girili olmalıdır.
+admin arayüzünün e maili "admin" şifresi "123456" dır.
+veri tabanı dosyası ve diyagramlar "ek" klasörünün içindedir.
+"mzkktm_db" Şeması da bu "ek" klasörünün altındaki 
+"mzkktm_db" klasöründen import edilmelidir.
+
+uygulama app dosyası dist klasörünün içerisindeki .jar  uzantılı dosyadır.
